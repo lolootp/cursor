@@ -1,0 +1,8 @@
+{
+  "name": "cursor",
+  "version": "1.0.0",
+  "main": "cursor-trail.js",
+  "scripts": {
+    "build": "echo \"Build steps here\""
+  }
+}
